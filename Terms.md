@@ -5,6 +5,7 @@ Effective Date: December 18, 2024
 Thank you for your interest in Abdullah’s Method for Triangle Intersection, an innovative approach to ray-triangle intersection calculations utilizing linear interpolation. The following terms outline the permitted and restricted uses of this method.
 
 1. Personal Use
+
   1.1 Open Terms: Individuals are permitted to use Abdullah’s Method for Triangle Intersection for personal, non-commercial purposes without restriction. This includes:
   
     -Academic study and research.
@@ -15,7 +16,7 @@ Thank you for your interest in Abdullah’s Method for Triangle Intersection, an
   
   1.2 Credit: While not mandatory, crediting the author (Abdullah Ali) is highly appreciated in any academic or public dissemination of work that incorporates this method.
 
-  
+
 2. Organizational Use
 
   2.1 Restricted Terms: Organizations, including but not limited to businesses, non-profits, and academic institutions, must adhere to the following conditions:
@@ -32,7 +33,7 @@ Thank you for your interest in Abdullah’s Method for Triangle Intersection, an
         -Organizations must consult the author personally to negotiate usage terms. Contact details will be provided upon request for this purpose.
 
 3. General Provisions
-
+   
     3.1 Liability Disclaimer: The author assumes no liability for any outcomes or damages resulting from the use of Abdullah’s Method. Users adopt this method at their own risk.
     
     3.2 Intellectual Property: Abdullah’s Method is the intellectual property of Abdullah Ali. Unauthorized use or distribution of the method, particularly for organizational purposes, is prohibited and may result in legal action.
