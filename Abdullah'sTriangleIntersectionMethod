@@ -11,7 +11,7 @@ t2 = (hitPoint.y - B.y) / |B.y - C.y|;
 //Then we check..
 if(x1 < hitPoint.x < x2){ return true; }
 
-in cuda
+in cuda or any programing language
 
 This code checks the hit in the x axis ,
 it is just the same in the y axis 
