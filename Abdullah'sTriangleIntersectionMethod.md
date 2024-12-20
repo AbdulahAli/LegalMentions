@@ -17,7 +17,7 @@ This code checks the hit in the x axis ,
 it is just the same in the y axis 
 
 
-Then we apply this method to work on the z axis as well, by dividing XY coordinates of ABC points by the Z coordinate of these points
+Then we apply this method to work on the z axis as well, by dividing XY coordinates of ABC points by the Z coordinate of these points, or multiplying the rest sides of the equation by the value of Z and simplifying the inquality.
 
 
 This method has some optimizations and simplfications and all of them are considered in this method.
